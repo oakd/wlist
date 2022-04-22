@@ -7,3 +7,5 @@ ads-e-darwin.hulustream.com
 affiliate-program.amazon.com
 coinbase.com
 hulu.com
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
