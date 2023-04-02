@@ -10,6 +10,7 @@ hulu.com
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 # adobe for emma below
+###
 lm.licenses.adobe.com
 resources.licenses.adobe.com
 cs.licenses.adobe.com
@@ -68,6 +69,8 @@ genuine.adobe.com
 prod.adobegenuine.com
 gocart-web-prod-*.elb.amazonaws.com
 www.adobe.com
+## end emma adobe
+####
 acc-learn.adobe.com
 acc-learn.adobe.io
 accounts.adobe.com
