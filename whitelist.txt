@@ -250,13 +250,10 @@
 @@||bat.bing.com^$important
 @@||c.betrad.com^$important
 @@||c.evidon.com^$important
-@@||googleads.g.doubleclick.net^$important
 @@||js-agent.newrelic.com^$important
 @@||snap.licdn.com^$important
 @@||www.everestjs.net^$important
 @@||www.facebook.com^$important
-@@||www.googleadservices.com^$important
-@@||www.googletagmanager.com^$important
 @@||match.prod.bidr.io^$important
 @@||scripts.demandbase.com^$important
 @@||cdn.inpwrd.net^$important
@@ -347,7 +344,6 @@
 @@||wss://nexus-websocket-b.intercom.io^$important
 @@||cdn.segment.io^$important
 @@||api.segment.io^$important
-@@||google-analytics.com^$important
 @@||fast.appcues.com^$important
 @@||api.appcues.net^$important
 @@||my.appcues.com^$important
@@ -361,9 +357,7 @@
 @@||store3.adobe.com^$important
 @@||photoshop.com^$important
 @@||access.imageclub.com^$important
-@@||play.google.com^$important
 @@||www.flickr.com^$important
-@@||chrome.google.com^$important
 @@||soundcloud.com^$important
 @@||www.freedb.org^$important
 @@||developer.apple.com^$important
@@ -390,7 +384,6 @@
 @@||symcb.com^$important
 @@||symcd.com^$important
 @@||www.rulesforuse.org^$important
-@@||maps.google.com^$important
 @@||www.eclipse.org^$important
 @@||www.shutterfly.com^$important
 @@||msdn.microsoft.com^$important
