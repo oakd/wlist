@@ -7,8 +7,8 @@
 @@||affiliate-program.amazon.com^$important
 @@||coinbase.com^$important
 @@||hulu.com^$important
-@@||device-metrics-us.amazon.com^$important
-@@||device-metrics-us-2.amazon.com^$important
+# @@||device-metrics-us.amazon.com^$important
+# @@||device-metrics-us-2.amazon.com^$important
 # adobe for emma below
 ###
 @@||lm.licenses.adobe.com^$important
