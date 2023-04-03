@@ -362,16 +362,16 @@
 @@||www.freedb.org^$important
 # @@||developer.apple.com^$important
 @@||subversion.tigris.org^$important
-@@||www.ietf.org^$important
+# @@||www.ietf.org^$important
 @@||framework.zend.com^$important
 @@||windowsupdate.com^$important
 @@||digicert.com^$important
 @@||geotrust.com^$important
 @@||globalsign.com^$important
-@@||godaddy.com^$important
+# @@||godaddy.com^$important
 @@||twitter.com^$important
 @@||www.microsoft.com^$important
-@@||ftp.yourdomain.com^$important
+# @@||ftp.yourdomain.com^$important
 @@||www.amazon.com^$important
 @@||www.mp3licensing.com^$important
 # @@||itunes.apple.com^$important
@@ -388,8 +388,8 @@
 @@||www.shutterfly.com^$important
 @@||msdn.microsoft.com^$important
 @@||www.zoomify.com^$important
-@@||www.evidon.com^$important
-@@||www.betrad.com^$important
+# @@||www.evidon.com^$important
+# @@||www.betrad.com^$important
 @@||*.uservoice.com^$important
 @@||thawte.com^$important
 @@||verisign.com^$important
