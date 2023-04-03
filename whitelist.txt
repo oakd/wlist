@@ -158,7 +158,7 @@
 @@||ds.adobe.io^$important
 @@||exchange.adobe.com^$important
 @@||faster.typekit.net^$important
-@@||firebase-settings.crashlytics.com^$important
+# @@||firebase-settings.crashlytics.com^$important
 @@||firebaseinstallations.googleapis.com^$important
 @@||firebaselogging-pa.googleapis.com^$important
 @@||geo.adobe.com^$important
