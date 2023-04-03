@@ -360,7 +360,7 @@
 @@||www.flickr.com^$important
 @@||soundcloud.com^$important
 @@||www.freedb.org^$important
-@@||developer.apple.com^$important
+# @@||developer.apple.com^$important
 @@||subversion.tigris.org^$important
 @@||www.ietf.org^$important
 @@||framework.zend.com^$important
@@ -374,8 +374,8 @@
 @@||ftp.yourdomain.com^$important
 @@||www.amazon.com^$important
 @@||www.mp3licensing.com^$important
-@@||itunes.apple.com^$important
-@@||www.apple.com^$important
+# @@||itunes.apple.com^$important
+# @@||www.apple.com^$important
 @@||www.python.org^$important
 @@||jquerymobile.com^$important
 @@||www.color.org^$important
