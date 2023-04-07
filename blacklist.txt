@@ -26,7 +26,7 @@ windsor.logs.roku.com
 arcus-uswest.amazon.com
 avs-alexa-19-eu.amazon.com
 #ktpx-eu.amazon.com
-dcape-na.amazon.com
+##############dcape-na.amazon.com
 #fireoscaptiveportal.com
 aviary.amazon.de
 api.eu.amazonalexa.com
