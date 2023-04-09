@@ -10,7 +10,7 @@
 # @@||device-metrics-us.amazon.com^$important
 # @@||device-metrics-us-2.amazon.com^$important
 # adobe for emma below
-###
+####
 @@||lm.licenses.adobe.com^$important
 @@||resources.licenses.adobe.com^$important
 @@||cs.licenses.adobe.com^$important
@@ -393,7 +393,7 @@
 @@||*.uservoice.com^$important
 @@||thawte.com^$important
 @@||verisign.com^$important
-@@||api.mapbox.com^$important
+# @@||api.mapbox.com^$important
 @@||worldsecuresystems.com^$important
 @@||adobe-oobe-prod-data-store-ue1.s3.amazonaws.com^$important
 @@||encoded-videos-0.s3.amazonaws.com^$important
