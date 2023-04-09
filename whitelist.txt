@@ -159,8 +159,8 @@
 @@||exchange.adobe.com^$important
 @@||faster.typekit.net^$important
 # @@||firebase-settings.crashlytics.com^$important
-@@||firebaseinstallations.googleapis.com^$important
-@@||firebaselogging-pa.googleapis.com^$important
+# @@||firebaseinstallations.googleapis.com^$important
+# @@||firebaselogging-pa.googleapis.com^$important
 @@||geo.adobe.com^$important
 @@||geo2.adobe.com^$important
 @@||ic.adobe.io^$important
@@ -253,7 +253,7 @@
 @@||js-agent.newrelic.com^$important
 @@||snap.licdn.com^$important
 @@||www.everestjs.net^$important
-@@||www.facebook.com^$important
+# @@||www.facebook.com^$important
 @@||match.prod.bidr.io^$important
 @@||scripts.demandbase.com^$important
 @@||cdn.inpwrd.net^$important
