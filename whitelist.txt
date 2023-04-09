@@ -369,10 +369,10 @@
 @@||geotrust.com^$important
 @@||globalsign.com^$important
 # @@||godaddy.com^$important
-@@||twitter.com^$important
-@@||www.microsoft.com^$important
+# @@||twitter.com^$important
+# @@||www.microsoft.com^$important
 # @@||ftp.yourdomain.com^$important
-@@||www.amazon.com^$important
+# @@||www.amazon.com^$important
 @@||www.mp3licensing.com^$important
 # @@||itunes.apple.com^$important
 # @@||www.apple.com^$important
@@ -386,7 +386,7 @@
 @@||www.rulesforuse.org^$important
 @@||www.eclipse.org^$important
 @@||www.shutterfly.com^$important
-@@||msdn.microsoft.com^$important
+# @@||msdn.microsoft.com^$important
 @@||www.zoomify.com^$important
 # @@||www.evidon.com^$important
 # @@||www.betrad.com^$important
